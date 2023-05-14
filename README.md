@@ -1,1 +1,4 @@
-# Madhav-Ecommerce-Sales-Dashboard
+"Hello, fellow data enthusiasts!
+I'm excited to share Madhav Ecommerce sales dashboard with all of you. This is my first Power BI dashboard, which I created while learning from ☀️ Rishabh Mishra ☀️sir!!!
+
+The project involved the development of an interactive dashboard for tracking and analyzing online sales data. This dashboard incorporated complex parameters that allowed for drilling down into worksheets and customization using filters and slicers. In addition, connections were created, new tables were joined, and calculations were manipulated to enable user-driven parameters for visualizations. A range of customized visualizations were also utilized, including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers. Overall, the interactive dashboard provided a comprehensive and flexible tool for analyzing and tracking online sales data, with a variety of customizable options for data exploration and visualization.
